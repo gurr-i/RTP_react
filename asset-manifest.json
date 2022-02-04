@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.f419c478.css",
-    "main.js": "./static/js/main.358eef8a.js",
+    "main.css": "./static/css/main.a9cede70.css",
+    "main.js": "./static/js/main.2b992c77.js",
     "static/media/RTP8.mp4": "./static/media/RTP8.b89a52327a0f8285033c.mp4",
     "static/media/img1.jpg": "./static/media/img1.d78865dc44bdb9bc36a5.jpg",
     "static/media/img3.jpg": "./static/media/img3.bb7021e4bf4615ae8cc6.jpg",
@@ -9,17 +9,19 @@
     "static/media/img5.jpg": "./static/media/img5.f905905e2a59fa5d598d.jpg",
     "static/media/RTP_Logo.png": "./static/media/RTP_Logo.3d6c5a05f7fc95063cf4.png",
     "static/media/img2.jpg": "./static/media/img2.84ac62e3d31110d37b55.jpg",
+    "static/media/PaAC_Logo.png": "./static/media/PaAC_Logo.f55b56e85faafaffaadf.png",
+    "static/media/IITR_Logo.png": "./static/media/IITR_Logo.6528ae1e4e199d2c5c92.png",
     "static/media/instagram-icon.png": "./static/media/instagram-icon.23c638b4faa9c3d577cd.png",
     "static/media/whatsapp-icon.png": "./static/media/whatsapp-icon.f41a4e42652547144538.png",
     "static/media/snapchat-icon.png": "./static/media/snapchat-icon.a577d4ea0b5da923a36e.png",
     "static/media/linkedin-icon.png": "./static/media/linkedin-icon.be2a99ff5453b5981173.png",
     "static/media/facebook-icon.png": "./static/media/facebook-icon.eb205329e3eeb643d450.png",
     "index.html": "./index.html",
-    "main.f419c478.css.map": "./static/css/main.f419c478.css.map",
-    "main.358eef8a.js.map": "./static/js/main.358eef8a.js.map"
+    "main.a9cede70.css.map": "./static/css/main.a9cede70.css.map",
+    "main.2b992c77.js.map": "./static/js/main.2b992c77.js.map"
   },
   "entrypoints": [
-    "static/css/main.f419c478.css",
-    "static/js/main.358eef8a.js"
+    "static/css/main.a9cede70.css",
+    "static/js/main.2b992c77.js"
   ]
 }
