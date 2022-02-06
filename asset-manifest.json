@@ -1,11 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.a9cede70.css",
-    "main.js": "./static/js/main.8f87368e.js",
+    "main.css": "./static/css/main.de9d9ffb.css",
+    "main.js": "./static/js/main.f42eb399.js",
     "static/media/RTP8.mp4": "./static/media/RTP8.b89a52327a0f8285033c.mp4",
     "static/media/img1.jpg": "./static/media/img1.d78865dc44bdb9bc36a5.jpg",
+    "static/media/jurica-koletic-7YVZYZeITc8-unsplash.jpg": "./static/media/jurica-koletic-7YVZYZeITc8-unsplash.1b99d2955c9bea1718c4.jpg",
+    "static/media/philip-martin-5aGUyCW_PJw-unsplash.jpg": "./static/media/philip-martin-5aGUyCW_PJw-unsplash.1f2c5e0db6e0f7704a23.jpg",
+    "static/media/jimmy-fermin-bqe0J0b26RQ-unsplash.jpg": "./static/media/jimmy-fermin-bqe0J0b26RQ-unsplash.e62519d616b5a03121cd.jpg",
     "static/media/img3.jpg": "./static/media/img3.bb7021e4bf4615ae8cc6.jpg",
+    "static/media/aiony-haust-3TLl_97HNJo-unsplash.jpg": "./static/media/aiony-haust-3TLl_97HNJo-unsplash.4ff797231c53dab7193b.jpg",
     "static/media/img4.jpg": "./static/media/img4.816c9c3755b3a65b50c6.jpg",
+    "static/media/toa-heftiba-O3ymvT7Wf9U-unsplash.jpg": "./static/media/toa-heftiba-O3ymvT7Wf9U-unsplash.ac493de2de362a13a50c.jpg",
     "static/media/img5.jpg": "./static/media/img5.f905905e2a59fa5d598d.jpg",
     "static/media/RTP_Logo.png": "./static/media/RTP_Logo.3d6c5a05f7fc95063cf4.png",
     "static/media/img2.jpg": "./static/media/img2.84ac62e3d31110d37b55.jpg",
@@ -17,11 +22,12 @@
     "static/media/linkedin-icon.png": "./static/media/linkedin-icon.be2a99ff5453b5981173.png",
     "static/media/facebook-icon.png": "./static/media/facebook-icon.eb205329e3eeb643d450.png",
     "index.html": "./index.html",
-    "main.a9cede70.css.map": "./static/css/main.a9cede70.css.map",
-    "main.8f87368e.js.map": "./static/js/main.8f87368e.js.map"
+    "static/media/linkedin.svg": "./static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
+    "main.de9d9ffb.css.map": "./static/css/main.de9d9ffb.css.map",
+    "main.f42eb399.js.map": "./static/js/main.f42eb399.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9cede70.css",
-    "static/js/main.8f87368e.js"
+    "static/css/main.de9d9ffb.css",
+    "static/js/main.f42eb399.js"
   ]
 }
