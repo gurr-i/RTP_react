@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.30033e80.css",
-    "main.js": "./static/js/main.130d5d85.js",
+    "main.css": "./static/css/main.b9a252e7.css",
+    "main.js": "./static/js/main.279f94c0.js",
     "static/media/RTP8.mp4": "./static/media/RTP8.b89a52327a0f8285033c.mp4",
     "static/media/img1.jpg": "./static/media/img1.d78865dc44bdb9bc36a5.jpg",
     "static/media/jurica-koletic-7YVZYZeITc8-unsplash.jpg": "./static/media/jurica-koletic-7YVZYZeITc8-unsplash.1b99d2955c9bea1718c4.jpg",
@@ -23,11 +23,11 @@
     "static/media/facebook-icon.png": "./static/media/facebook-icon.eb205329e3eeb643d450.png",
     "index.html": "./index.html",
     "static/media/linkedin.svg": "./static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
-    "main.30033e80.css.map": "./static/css/main.30033e80.css.map",
-    "main.130d5d85.js.map": "./static/js/main.130d5d85.js.map"
+    "main.b9a252e7.css.map": "./static/css/main.b9a252e7.css.map",
+    "main.279f94c0.js.map": "./static/js/main.279f94c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.30033e80.css",
-    "static/js/main.130d5d85.js"
+    "static/css/main.b9a252e7.css",
+    "static/js/main.279f94c0.js"
   ]
 }
