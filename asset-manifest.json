@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.54054142.css",
-    "main.js": "./static/js/main.3dfd1eab.js",
+    "main.js": "./static/js/main.ca8d8b61.js",
     "static/media/RTP8.mp4": "./static/media/RTP8.b89a52327a0f8285033c.mp4",
     "static/media/img1.jpg": "./static/media/img1.d78865dc44bdb9bc36a5.jpg",
     "static/media/jurica-koletic-7YVZYZeITc8-unsplash.jpg": "./static/media/jurica-koletic-7YVZYZeITc8-unsplash.1b99d2955c9bea1718c4.jpg",
     "static/media/philip-martin-5aGUyCW_PJw-unsplash.jpg": "./static/media/philip-martin-5aGUyCW_PJw-unsplash.1f2c5e0db6e0f7704a23.jpg",
+    "static/media/IMG20210806002746 - RACHERLA GEETIKA.jpg": "./static/media/IMG20210806002746 - RACHERLA GEETIKA.3941eb2010e3b9fbf816.jpg",
     "static/media/jimmy-fermin-bqe0J0b26RQ-unsplash.jpg": "./static/media/jimmy-fermin-bqe0J0b26RQ-unsplash.e62519d616b5a03121cd.jpg",
     "static/media/img3.jpg": "./static/media/img3.bb7021e4bf4615ae8cc6.jpg",
     "static/media/aiony-haust-3TLl_97HNJo-unsplash.jpg": "./static/media/aiony-haust-3TLl_97HNJo-unsplash.4ff797231c53dab7193b.jpg",
@@ -16,6 +17,7 @@
     "static/media/img2.jpg": "./static/media/img2.84ac62e3d31110d37b55.jpg",
     "static/media/PaAC_Logo.png": "./static/media/PaAC_Logo.f55b56e85faafaffaadf.png",
     "static/media/IITR_Logo.png": "./static/media/IITR_Logo.6528ae1e4e199d2c5c92.png",
+    "static/media/IMG-20220121-WA0024 - TARALE JANHAVI.jpg": "./static/media/IMG-20220121-WA0024 - TARALE JANHAVI.a21ba17bd797008e8ad4.jpg",
     "static/media/instagram-icon.png": "./static/media/instagram-icon.23c638b4faa9c3d577cd.png",
     "static/media/whatsapp-icon.png": "./static/media/whatsapp-icon.f41a4e42652547144538.png",
     "static/media/snapchat-icon.png": "./static/media/snapchat-icon.a577d4ea0b5da923a36e.png",
@@ -24,10 +26,10 @@
     "index.html": "./index.html",
     "static/media/linkedin.svg": "./static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
     "main.54054142.css.map": "./static/css/main.54054142.css.map",
-    "main.3dfd1eab.js.map": "./static/js/main.3dfd1eab.js.map"
+    "main.ca8d8b61.js.map": "./static/js/main.ca8d8b61.js.map"
   },
   "entrypoints": [
     "static/css/main.54054142.css",
-    "static/js/main.3dfd1eab.js"
+    "static/js/main.ca8d8b61.js"
   ]
 }
