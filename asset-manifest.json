@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.54054142.css",
-    "main.js": "./static/js/main.5e5573cb.js",
+    "main.js": "./static/js/main.2b425e2f.js",
     "static/media/RTP8.mp4": "./static/media/RTP8.b89a52327a0f8285033c.mp4",
     "static/media/img1.jpg": "./static/media/img1.d78865dc44bdb9bc36a5.jpg",
     "static/media/IMG20220106201337 - Kriti.jpg": "./static/media/IMG20220106201337 - Kriti.9ec171058eb60118fc77.jpg",
@@ -21,22 +21,23 @@
     "static/media/PaAC_Logo.png": "./static/media/PaAC_Logo.f55b56e85faafaffaadf.png",
     "static/media/IMG_20210322_220703_124 - Ashutosh Kumar.jpg": "./static/media/IMG_20210322_220703_124 - Ashutosh Kumar.8301f063596b6d0db5e3.jpg",
     "static/media/IITR_Logo.png": "./static/media/IITR_Logo.6528ae1e4e199d2c5c92.png",
+    "static/media/Prof. Anil Gourishetty.jpg": "./static/media/Prof. Anil Gourishetty.e42c9deba1c5c8b81931.jpg",
     "static/media/IMG-20220121-WA0024 - TARALE JANHAVI.jpg": "./static/media/IMG-20220121-WA0024 - TARALE JANHAVI.a21ba17bd797008e8ad4.jpg",
     "static/media/Prof. Karun Rawat.jpg": "./static/media/Prof. Karun Rawat.5052ca9bc6a0f33293ff.jpg",
+    "static/media/Prof. Meenakshi Rawat.jpg": "./static/media/Prof. Meenakshi Rawat.9327b04d5dad74af8e37.jpg",
     "static/media/instagram-icon.png": "./static/media/instagram-icon.23c638b4faa9c3d577cd.png",
     "static/media/whatsapp-icon.png": "./static/media/whatsapp-icon.f41a4e42652547144538.png",
     "static/media/Prof. Paramasivan Arumugam.jpg": "./static/media/Prof. Paramasivan Arumugam.e8eb647769f6b46e2f5b.jpg",
     "static/media/snapchat-icon.png": "./static/media/snapchat-icon.a577d4ea0b5da923a36e.png",
-    "static/media/Prof. Meenakshi Rawat.jpg": "./static/media/Prof. Meenakshi Rawat.63a7638deba2d6d52eae.jpg",
     "static/media/linkedin-icon.png": "./static/media/linkedin-icon.be2a99ff5453b5981173.png",
     "static/media/facebook-icon.png": "./static/media/facebook-icon.eb205329e3eeb643d450.png",
     "index.html": "./index.html",
     "static/media/linkedin.svg": "./static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
     "main.54054142.css.map": "./static/css/main.54054142.css.map",
-    "main.5e5573cb.js.map": "./static/js/main.5e5573cb.js.map"
+    "main.2b425e2f.js.map": "./static/js/main.2b425e2f.js.map"
   },
   "entrypoints": [
     "static/css/main.54054142.css",
-    "static/js/main.5e5573cb.js"
+    "static/js/main.2b425e2f.js"
   ]
 }
