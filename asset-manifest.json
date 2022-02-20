@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.2b23ef48.css",
-    "main.js": "./static/js/main.34ac62ec.js",
+    "main.js": "./static/js/main.01c5445d.js",
     "static/media/RTP8.mp4": "./static/media/RTP8.b89a52327a0f8285033c.mp4",
     "static/media/img1.jpg": "./static/media/img1.d78865dc44bdb9bc36a5.jpg",
     "static/media/IMG20220106201337 - Kriti.jpg": "./static/media/IMG20220106201337 - Kriti.9ec171058eb60118fc77.jpg",
@@ -32,15 +32,16 @@
     "static/media/snapchat-icon.png": "./static/media/snapchat-icon.a577d4ea0b5da923a36e.png",
     "static/media/linkedin-icon.png": "./static/media/linkedin-icon.be2a99ff5453b5981173.png",
     "static/media/instagram-512.png": "./static/media/instagram-512.78ac1d5dc788d039de5d.png",
+    "static/media/website-optimization-2-512.png": "./static/media/website-optimization-2-512.680e674bef4e8f6e5013.png",
     "static/media/facebook-icon.png": "./static/media/facebook-icon.eb205329e3eeb643d450.png",
     "static/media/twitter-512.png": "./static/media/twitter-512.e4f0782077efc1627e09.png",
     "index.html": "./index.html",
     "static/media/linkedin.svg": "./static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
     "main.2b23ef48.css.map": "./static/css/main.2b23ef48.css.map",
-    "main.34ac62ec.js.map": "./static/js/main.34ac62ec.js.map"
+    "main.01c5445d.js.map": "./static/js/main.01c5445d.js.map"
   },
   "entrypoints": [
     "static/css/main.2b23ef48.css",
-    "static/js/main.34ac62ec.js"
+    "static/js/main.01c5445d.js"
   ]
 }
