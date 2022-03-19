@@ -1,19 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.1f51e26d.css",
-    "main.js": "./static/js/main.9e42c50c.js",
+    "main.js": "./static/js/main.b2a83765.js",
     "static/media/RTP8.mp4": "./static/media/RTP8.b89a52327a0f8285033c.mp4",
     "static/media/img1.jpg": "./static/media/img1.d78865dc44bdb9bc36a5.jpg",
     "static/media/IMG20220106201337 - Kriti.jpg": "./static/media/IMG20220106201337 - Kriti.9ec171058eb60118fc77.jpg",
+    "static/media/kaustav_07022022 - KAUSTAV BHATTACHARJEE.jpg": "./static/media/kaustav_07022022 - KAUSTAV BHATTACHARJEE.66d8c8a6e95c29f8181e.jpg",
     "static/media/IMG20210806002746 - RACHERLA GEETIKA.jpg": "./static/media/IMG20210806002746 - RACHERLA GEETIKA.3941eb2010e3b9fbf816.jpg",
     "static/media/20220128_142212 - DAKSHANSH CHAWDA.jpg": "./static/media/20220128_142212 - DAKSHANSH CHAWDA.b2bef6b123a0392c7453.jpg",
     "static/media/Vidhi_Patidar - VIDHI PATIDAR.jpg": "./static/media/Vidhi_Patidar - VIDHI PATIDAR.1569aa09b490ec5adf0e.jpg",
     "static/media/jimmy-fermin-bqe0J0b26RQ-unsplash.jpg": "./static/media/jimmy-fermin-bqe0J0b26RQ-unsplash.e62519d616b5a03121cd.jpg",
+    "static/media/IMG_20220208_214505 - KRISH SHAH.jpg": "./static/media/IMG_20220208_214505 - KRISH SHAH.04c232864c645e191a6e.jpg",
     "static/media/img3.jpg": "./static/media/img3.bb7021e4bf4615ae8cc6.jpg",
     "static/media/aiony-haust-3TLl_97HNJo-unsplash.jpg": "./static/media/aiony-haust-3TLl_97HNJo-unsplash.4ff797231c53dab7193b.jpg",
     "static/media/img4.jpg": "./static/media/img4.816c9c3755b3a65b50c6.jpg",
+    "static/media/ppp.v4 - PRAKHAR PRATAP SINGH.jpg": "./static/media/ppp.v4 - PRAKHAR PRATAP SINGH.fc3817f9da8f5ed9c37d.jpg",
+    "static/media/IMG_20210628_200351_585-01 - YASH SHARMA.jpeg": "./static/media/IMG_20210628_200351_585-01 - YASH SHARMA.914c02f85ce680373150.jpeg",
+    "static/media/20201219_153705 - AGRIMA DARSHAN.jpg": "./static/media/20201219_153705 - AGRIMA DARSHAN.f0e580158cf5ee5352ca.jpg",
     "static/media/img5.jpg": "./static/media/img5.f905905e2a59fa5d598d.jpg",
     "static/media/DAYAL_IMG_20220313_170141-01.jpeg": "./static/media/DAYAL_IMG_20220313_170141-01.c9eccf5fbff152511987.jpeg",
+    "static/media/WhatsApp Image 2022-02-06 at 22.07.26 - N.ARUTKEERTHI.jpeg": "./static/media/WhatsApp Image 2022-02-06 at 22.07.26 - N.ARUTKEERTHI.9a71cd736e31e04e0a32.jpeg",
     "static/media/IMG_Ashutosh Kumar.jpg": "./static/media/IMG_Ashutosh Kumar.6d8aba7e000d0935d192.jpg",
     "static/media/RTP_Logo.png": "./static/media/RTP_Logo.3d6c5a05f7fc95063cf4.png",
     "static/media/Untitled - SUSMIT WALVE.png": "./static/media/Untitled - SUSMIT WALVE.4518e42c11b143f31300.png",
@@ -41,10 +47,10 @@
     "index.html": "./index.html",
     "static/media/linkedin.svg": "./static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
     "main.1f51e26d.css.map": "./static/css/main.1f51e26d.css.map",
-    "main.9e42c50c.js.map": "./static/js/main.9e42c50c.js.map"
+    "main.b2a83765.js.map": "./static/js/main.b2a83765.js.map"
   },
   "entrypoints": [
     "static/css/main.1f51e26d.css",
-    "static/js/main.9e42c50c.js"
+    "static/js/main.b2a83765.js"
   ]
 }
