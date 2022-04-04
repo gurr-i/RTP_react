@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.7c13efa6.css",
-    "main.js": "./static/js/main.d8c56ebf.js",
+    "main.js": "./static/js/main.fab58aea.js",
     "static/media/RTP8.mp4": "./static/media/RTP8.b89a52327a0f8285033c.mp4",
     "static/media/img1.jpg": "./static/media/img1.d78865dc44bdb9bc36a5.jpg",
     "static/media/IMG20220106201337 - Kriti.jpg": "./static/media/IMG20220106201337 - Kriti.9ec171058eb60118fc77.jpg",
@@ -29,10 +29,12 @@
     "static/media/20220206_231853 - NITYA TYAGI.jpg": "./static/media/20220206_231853 - NITYA TYAGI.10f741ac91ae08fbd3fe.jpg",
     "static/media/IITR_Logo.png": "./static/media/IITR_Logo.6528ae1e4e199d2c5c92.png",
     "static/media/IMG-20220121-WA0024 - TARALE JANHAVI.jpg": "./static/media/IMG-20220121-WA0024 - TARALE JANHAVI.a21ba17bd797008e8ad4.jpg",
+    "static/media/the_great_silence_by_lemmino_dct97gy-254540gdfhththhththth.jpg": "./static/media/the_great_silence_by_lemmino_dct97gy-254540gdfhththhththth.608738f4fc392b5e1425.jpg",
     "static/media/Prof. Sanjay H. Upadhayay.jpg": "./static/media/Prof. Sanjay H. Upadhayay.2ac5d875b4724e57d0a6.jpg",
     "static/media/Prof. Karun Rawat.jpg": "./static/media/Prof. Karun Rawat.5052ca9bc6a0f33293ff.jpg",
     "static/media/Prof. Meenakshi Rawat.jpg": "./static/media/Prof. Meenakshi Rawat.9327b04d5dad74af8e37.jpg",
     "static/media/Prof. Anil Gourishetty.jpg": "./static/media/Prof. Anil Gourishetty.7c899098516d22f10569.jpg",
+    "static/media/the_great_silence_by_lemmino_dct97gy-254540t.jpg": "./static/media/the_great_silence_by_lemmino_dct97gy-254540t.4bafacd48b583c0b2e11.jpg",
     "static/media/instagram-icon.png": "./static/media/instagram-icon.23c638b4faa9c3d577cd.png",
     "static/media/Ratul.jpeg": "./static/media/Ratul.d1c514de668fd28743c8.jpeg",
     "static/media/whatsapp-icon.png": "./static/media/whatsapp-icon.f41a4e42652547144538.png",
@@ -47,10 +49,10 @@
     "index.html": "./index.html",
     "static/media/linkedin.svg": "./static/media/linkedin.98956d298e14a6384fdb39c42269f2f2.svg",
     "main.7c13efa6.css.map": "./static/css/main.7c13efa6.css.map",
-    "main.d8c56ebf.js.map": "./static/js/main.d8c56ebf.js.map"
+    "main.fab58aea.js.map": "./static/js/main.fab58aea.js.map"
   },
   "entrypoints": [
     "static/css/main.7c13efa6.css",
-    "static/js/main.d8c56ebf.js"
+    "static/js/main.fab58aea.js"
   ]
 }
